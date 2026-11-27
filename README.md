@@ -40,7 +40,7 @@ Uses reactive `StateFlow` state management, Jetpack DataStore preference persist
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Timer2334/weather-app.git](https://github.com/Timer2334/weather-app.git)
+   git clone [https://github.com/Timer2334/weather-compose.git](https://github.com/Timer2334/weather-compose.git)
    ```
 2. Configure your OpenWeather API key (see [OpenWeather API Setup](#openweather-api-setup)).
 3. Sync Gradle in Android Studio and run on an emulator or physical device running **Android 9.0 (API 28)** or higher.
